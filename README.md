@@ -4,6 +4,38 @@
         <meta charset="utf-8">
         <title>BLOG</title>
     </head>
+    <style>
+        body{
+            background-color:rgb(126, 191, 189);
+            color:rgb(255, 255, 255);
+            font-family:"Merriweather", serif;
+        }
+        #creamyice {
+            display:block;
+            margin-left:auto;
+            margin-right:auto;
+            width:50%;
+        }
+        .cent {
+            text-align:center;
+        }
+        #date {
+            font-size: 12px;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        .postitl{
+            text-align:center;
+            line-height:0.3em;
+        }
+        .confir{
+            line-height:1.0em;
+            font-style:italic;
+        }
+        #tabl{
+            line-height:0px;
+        }
+    </style>
     <body>
         
         <h1 class="cent">Coco's blog</h1>
